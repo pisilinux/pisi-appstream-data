@@ -1,0 +1,1 @@
+This repository provides appstream data for Pisi GNU/Linux in order to be used in applications such as GNOME Software, KDE Discover etc. The project is forked from [here](https://dev.getsol.us/source/solus-appstream-data).
